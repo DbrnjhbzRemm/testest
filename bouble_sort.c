@@ -20,6 +20,11 @@ void mass(int *i, int o){
 
 	printf("\nSorted\n");
 	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
 
 	for (int j = 1; j != o; j++)
 		printf("%d ", i[j]);
