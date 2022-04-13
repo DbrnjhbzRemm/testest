@@ -41,6 +41,19 @@ int main(int argc, char *argv[]){
 		printf("%d ", a[i]);
 	}
 	printf("\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+
 
 	mass(a, argc);
 
