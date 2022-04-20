@@ -13,8 +13,8 @@
 		{"trait_type":"Face","value":"Round Blue"},
 		{"trait_type":"Left Eye","value":"X Purple"},
 		{"trait_type":"Rarity Rank","value":57,"display_type":"number","max_value":100}],
-
+	//fldknflv
 	//?
 	"properties":{"files":[{"uri":"/98.png","type":"image/png"}],
-	"category":"image",
+	"category":"image",//jfdkfjd
 	"creators":[{"address":"479wmDQPSMunKiRrbpNikqu6LLW3aQqdbq2MXBTQqUAE","share":100}]}}
