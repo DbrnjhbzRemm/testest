@@ -20,7 +20,7 @@ void mass(int *i, int o){
 
 	printf("\nSorted\n");
 	printf("\nKakashka\n");
-	printf("\n Ne Kakashka\n");
+
 
 	for (int j = 1; j != o; j++)
 		printf("%d ", i[j]);
@@ -37,6 +37,19 @@ int main(int argc, char *argv[]){
 		printf("%d ", a[i]);
 	}
 	printf("\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+	printf("\nKakashka\n");
+
 
 	mass(a, argc);
 
