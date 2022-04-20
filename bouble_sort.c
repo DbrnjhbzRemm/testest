@@ -54,4 +54,8 @@ int main(int argc, char *argv[]){
 	mass(a, argc);
 
 	printf("\n");
+	
+	
+	//TESTETSETSETSETSET
+	printf("\nKakashka\n");printf("\nKakashka\n");printf("\nKakashka\n");printf("\nKakashka\n");
 }
